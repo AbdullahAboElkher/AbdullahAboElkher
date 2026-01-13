@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mahmoud</h1>
-<h3 align="center">Frontend Developer | Angular Enthusiast</h3>
+<h3 align="center">Frontend Developer | Angular Developer</h3>
 
 <p align="center">
-  I’m a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+  A passionate Frontend Developer focused on building clean, scalable, and user-friendly web applications.
   <br />
-  Currently sharpening my skills in <b>Angular</b> and frontend best practices.
+  Specialized in Angular and modern frontend technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer specialized in **Angular**
-- 📚 Constantly learning and building real-world projects
+- 💻 Frontend Developer with a strong focus on **Angular**
+- 📚 Always learning and building real-world projects
 - 🎯 Goal: Become a professional **Angular / Frontend Engineer**
-- 🧠 Strong interest in clean code & scalable UI architecture
+- 🧠 Interested in clean code & component-based architecture
 - 🌍 Based in Egypt
 
 ---
@@ -40,33 +40,47 @@
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-🔹 I am actively working on multiple frontend projects using Angular.  
-🔹 Each project focuses on:
-- Component-based architecture
-- Clean UI/UX
+### 🛒 E-Commerce App (Angular)
+- Product listing, cart & checkout logic
+- Angular services & reusable components
+- Responsive UI & clean architecture
+
+🔗 Repository: Coming soon
+
+---
+
+### 📝 Task Management App
+- CRUD operations using Angular
+- Local storage integration
+- Modular structure
+
+🔗 Repository: Coming soon
+
+---
+
+### 🌦 Weather App
+- Real-time data using public API
+- HTTP Client & error handling
 - Responsive design
-- Real-world use cases
 
-> 🚧 Projects section is continuously updated.
+🔗 Repository: Coming soon
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAboElkher&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAboElkher&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
-
----
+- 📧 Email: abdullahmahmoud99997@gmail.com  
+- 💼 GitHub: https://github.com/AbdullahAboElkher  
 
 ⭐ If you like my work, feel free to star my repositories!
