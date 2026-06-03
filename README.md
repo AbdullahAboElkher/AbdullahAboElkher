@@ -1,74 +1,39 @@
 <h1 align="center">Hi 👋, I'm Abdullah AboElkher</h1>
-<h3 align="center">Frontend Developer | Angular Developer</h3>
+<h3 align="center">Frontend Developer </h3>
 
 <p align="center">
-  A passionate Frontend Developer focused on building clean, scalable, and user-friendly web applications.
-  <br />
-  Specialized in Angular and modern frontend technologies.
+Frontend Developer with strong foundational knowledge of  HTML5, CSS3, JavaScript (ES6), TypeScript, Angular, React.js and Next.js. Understanding of responsive design, component-based architecture, and basic frontend best practices.
+Actively learning and building personal projects to strengthen technical skills and deliver clean, well-structured code. Highly motivated to grow in a professional development environment.
 </p>
 
 ---
 
-## 🚀 About Me
+<h3> Key Skills : </h3>
 
-- 💻 Frontend Developer with a strong focus on **Angular**
-- 📚 Always learning and building real-world projects
-- 🎯 Goal: Become a professional **Angular / Frontend Engineer**
-- 🧠 Interested in clean code & component-based architecture
-- 🌍 Based in Egypt
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🎨 UI & Tools
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### ⚙️ Other
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- TypeScript 
+- Angular
+- React.js
+- Next.js
+- Tailwind css
 
 ---
 
-## 📂 Featured Projects
+<h3> Projects :</h3>
 
-### 🛒 E-Commerce App (Angular)
-- Product listing, cart & checkout logic
-- Angular services & reusable components
-- Responsive UI & clean architecture
+<h3>Personal Portfolio:</h3> Developed a responsive personal portfolio website to showcase projects and technical skills, built it using HTML, CSS, JavaScript, and modern frontend development practices.
+<h3>What's For Dinner:</h3> Developed a JavaScript-based web application demonstrating the use of functions, objects, and arrays, implemented dynamic content rendering and user interaction features.
+<h3>ContactHub:</h3> Built a contact management application that allows users to add, search, edit, and delete contacts, implemented data handling and search functionality using JavaScript.
+<h3>CRUD System:</h3> Developed a complete CRUD application with create, read, update, and delete operations, focused on data management, validation, and user-friendly interface design.
+<h3>Cosmos Space Dashboard:</h3> Created a dashboard application that consumes data from external APIs and displays space-related information, implemented API integration and dynamic data rendering using JavaScript.
+<h3>Quiz App:</h3> Developed an interactive quiz application with score tracking and multiple-choice questions, implemented dynamic question handling and result calculation.
+<h3>Social App:</h3> Built a social networking application featuring user interaction and content management functionalities, developed using React and Next.Js and responsive design principles.
+<h3>E-Commerce Website:</h3> Developed a responsive e-commerce application with product listing, shopping cart, and user-friendly navigation, focused on component-based architecture and a responsive user experience using React and Next .Js
 
-🔗 Repository: Coming soon
 
----
-
-### 📝 Task Management App
-- CRUD operations using Angular
-- Local storage integration
-- Modular structure
-
-🔗 Repository: Coming soon
-
----
-
-### 🌦 Weather App
-- Real-time data using public API
-- HTTP Client & error handling
-- Responsive design
-
-🔗 Repository: Coming soon
-
----
-
+<hr>
 
 ## 📫 Contact Me
 
